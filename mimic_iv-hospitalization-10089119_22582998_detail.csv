@@ -1,0 +1,1311 @@
+﻿question,answer,,
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below symptoms are existing. 
+There are three possible answers for each symptom. YES means a symptom exists, NO means a symptom does not exist, NA means a symptom is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Abdominal discomfort
+#2#: Abdominal mass
+#3#: Abdominal pain
+#4#: Acne
+#5#: Agnosia
+#6#: Anus and testicular issues
+#7#: Aphasia
+#8#: Apraxia
+#9#: Bone pain
+#10#: Bowel movement disorders
+#11#: Chest discomfort
+#12#: Chest pain
+#13#: Chilblain lupus
+#14#: Cognitive impairment or dementia
+#15#: Confusion
+#16#: Consciousness disorder
+#17#: Cough and expectoration
+#18#: Cyanosis
+#19#: Diarrhea
+#20#: Difficulty swallowing
+#21#: Dizziness
+#22#: Dysarthria
+#23#: Ear discharge
+#24#: Ear pain
+#25#: Ear problems
+#26#: Edema
+#27#: Eye discomfort and redness
+#28#: Fever
+#29#: Foot or ankle pain
+#30#: Gynecological and sexual problems
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NA
+#2#: NA
+#3#: NA
+#4#: NA
+#5#: NA
+#6#: NA
+#7#: NA
+#8#: NA
+#9#: NA
+#10#: NA
+#11#: NA
+#12#: NA
+#13#: NA
+#14#: NA
+#15#: NA
+#16#: NA
+#17#: NA
+#18#: NA
+#19#: NA
+#20#: NA
+#21#: NA
+#22#: NA
+#23#: NA
+#24#: NA
+#25#: NA
+#26#: NA
+#27#: NA
+#28#: NO
+#29#: NA
+#30#: NA",
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below symptoms are existing. 
+There are three possible answers for each symptom. YES means a symptom exists, NO means a symptom does not exist, NA means a symptom is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Hair loss
+#2#: Hand numbness or tingling
+#3#: Headache
+#4#: Hearing impairment
+#5#: Hematemesis
+#6#: Hemoptysis (coughing up blood)
+#7#: Hemorrhoids
+#8#: Hepatic pain
+#9#: Hiccups
+#10#: Hip pain
+#11#: Hypothermia
+#12#: Jaundice
+#13#: Joint pain
+#14#: Knee pain
+#15#: Limb (or whole-body) discomfort or soreness
+#16#: Lower back pain
+#17#: Memory problems
+#18#: Muscle problems
+#19#: Muscle tremors
+#20#: Nasal issues other than congestion and runny nose
+#21#: Nausea or vomiting
+#22#: Neck pain
+#23#: Night sweats
+#24#: Nipple atrophy
+#25#: Olfactory disorder
+#26#: Oral issues
+#27#: Palpitations
+#28#: Paralysis
+#29#: Pharyngeal abnormalities
+#30#: Renal pain
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NA
+#2#: NA
+#3#: NA
+#4#: NA
+#5#: NA
+#6#: NA
+#7#: NA
+#8#: NA
+#9#: NA
+#10#: NA
+#11#: NO
+#12#: NA
+#13#: NA
+#14#: NA
+#15#: NA
+#16#: NA
+#17#: NA
+#18#: NA
+#19#: NA
+#20#: NA
+#21#: YES
+#22#: NA
+#23#: NA
+#24#: NA
+#25#: NA
+#26#: NA
+#27#: NA
+#28#: NA
+#29#: NA
+#30#: NA",
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below symptoms are existing. 
+There are three possible answers for each symptom. YES means a symptom exists, NO means a symptom does not exist, NA means a symptom is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Seizures
+#2#: Shortness of breath or difficulty breathing
+#3#: Shoulder pain
+#4#: Skin problems (including oral and other mucosal problems)
+#5#: Sleep problems (including sleep breathing disorders)
+#6#: Sneezing
+#7#: Somatosensory disorders
+#8#: Sore throat
+#9#: Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes)
+#10#: Swollen feet or legs
+#11#: Thyroid pain
+#12#: Toothache
+#13#: Urinary issues
+#14#: Vertigo
+#15#: Vision problem
+#16#: Voice abnormalities
+#17#: Wheezing
+#18#: abnormal gait
+#19#: adult female pelvic pain
+#20#: adult male pelvic pain
+#21#: blood in stool
+#22#: constipation
+#23#: morning stiffness
+#24#: nasal obstruction
+#25#: runny nose
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NA
+#2#: NA
+#3#: NA
+#4#: NA
+#5#: NA
+#6#: NA
+#7#: NA
+#8#: NA
+#9#: NA
+#10#: NA
+#11#: NA
+#12#: NA
+#13#: YES
+#14#: NA
+#15#: NA
+#16#: NA
+#17#: NO
+#18#: NA
+#19#: NA
+#20#: NA
+#21#: NA
+#22#: NA
+#23#: NA
+#24#: NA
+#25#: NA",
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below factors exist when the give symptom: NAUSEA OR VOMITING is existing. 
+There are three possible answers for each factor. YES means a factor exists or ever exits based on the given context, NO means a factor does not exist, NA means a factor is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Nausea or vomiting accompanied by abdominal bloating or swelling
+#2#: Nausea or vomiting accompanied by abdominal pain, discomfort, or cramps
+#3#: Nausea or vomiting accompanied by acid reflux
+#4#: Nausea or vomiting accompanied by anxiety
+#5#: Nausea or vomiting accompanied by burning sensation in the chest
+#6#: Nausea or vomiting accompanied by feeling full after eating a small amount
+#7#: Nausea or vomiting accompanied by heartburn
+#8#: Nausea or vomiting accompanied by irregular heartbeat or palpitations
+#9#: Nausea or vomiting accompanied by pain behind the breastbone
+#10#: Nausea or vomiting accompanied by sweating
+#11#: Nausea or vomiting accompanied by unexpected weight loss
+#12#: Nausea or vomiting duration one week or more
+#13#: Nausea or vomiting duration past few hours
+#14#: Nausea or vomiting duration past few hours to days
+#15#: Nausea or vomiting duration recurring
+#16#: Nausea or vomiting time evening
+#17#: Nausea or vomiting time morning
+#18#: Nausea or vomiting time no specific pattern
+#19#: Nausea or vomiting triggers or aggravating factors alcohol consumption
+#20#: Nausea or vomiting triggers or aggravating factors eating certain foods
+#21#: Nausea or vomiting triggers or aggravating factors stress
+#22#: Nausea or vomiting triggers or aggravating factors travel or motion
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NO
+#2#: NO
+#3#: NO
+#4#: YES
+#5#: NO
+#6#: NO
+#7#: NO
+#8#: NO
+#9#: NO
+#10#: NO
+#11#: YES
+#12#: YES
+#13#: NA
+#14#: YES
+#15#: NA
+#16#: NA
+#17#: NA
+#18#: YES
+#19#: NA
+#20#: NA
+#21#: No
+#22#: NA",Nausea or vomiting
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below factors exist when the give symptom: URINARY ISSUES is existing. 
+There are three possible answers for each factor. YES means a factor exists or ever exits based on the given context, NO means a factor does not exist, NA means a factor is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Urinary issues accompanied by blurred vision
+#2#: Urinary issues accompanied by changes in vaginal discharge
+#3#: Urinary issues accompanied by clear discharge from the penis
+#4#: Urinary issues accompanied by extreme thirst or hunger
+#5#: Urinary issues accompanied by fatigue
+#6#: Urinary issues accompanied by lumps, blisters, or sores around the genital area
+#7#: Urinary issues accompanied by purulent discharge from the penis
+#8#: Urinary issues accompanied by unintentional weight loss
+#9#: Urinary issues accompanied by vaginal odor
+#10#: Urinary issues associated pain involves back or side pain
+#11#: Urinary issues associated pain involves itching or burning sensation in the genital area, buttocks, or inner thighs
+#12#: Urinary issues associated pain involves lower abdominal or groin pain
+#13#: Urinary issues associated pain involves pain during ejaculation
+#14#: Urinary issues associated pain involves pain during intercourse
+#15#: Urinary issues exacerbating factors menstrual cycle
+#16#: Urinary issues exacerbating factors stress
+#17#: Urinary issues problem is blood in urine
+#18#: Urinary issues problem is cloudy urine
+#19#: Urinary issues problem is difficulty emptying bladder or weak urine stream
+#20#: Urinary issues problem is difficulty starting urination
+#21#: Urinary issues problem is frequent urination
+#22#: Urinary issues problem is genital pain
+#23#: Urinary issues problem is getting up two or more times at night to urinate
+#24#: Urinary issues problem is interrupted urine flow
+#25#: Urinary issues problem is involuntary urinary incontinence
+#26#: Urinary issues problem is occurs in the morning
+#27#: Urinary issues problem is oliguria or anuria
+#28#: Urinary issues problem is pain or burning sensation during urination
+#29#: Urinary issues problem is proteinuria (foamy urine)
+#30#: Urinary issues problem is pyuria
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NO
+#2#: NO
+#3#: NO
+#4#: YES
+#5#: YES
+#6#: NO
+#7#: NO
+#8#: YES
+#9#: NO
+#10#: NO
+#11#: NO
+#12#: NO
+#13#: NO
+#14#: NO
+#15#: NO
+#16#: NO
+#17#: NO
+#18#: NO
+#19#: NO
+#20#: NO
+#21#: YES
+#22#: NO
+#23#: NO
+#24#: NO
+#25#: NO
+#26#: NO
+#27#: NO
+#28#: NO
+#29#: NO
+#30#: NO",Urinary issues
+mimic_iv-hospitalization-10089119_22582998,"Please assume you are a senior doctor, given the below admission record:
+
+Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+polydipsia, polyuria, nausea, weight loss, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ pmhx IDDMI presenting with cc fatigue. Patient reports 1 
+week polyuria, polydipsia, insulin pump with notification that 
+there is an occlusion for last week. Called PCP, found to have 
+positive ketones, and was sent to ED. 
+
+In ED initial VS:  97.9, HR 114, BP 117/94, RR 16, 100% RA 
+Glucose 326
+Labs significant for:  hgb 16.7, Na 131, Cl 89, Bicarb 10, BS 
+392, pH 7.2, pCO2 33, U/A +ketones
+Patient was given:  2L NS, started on insulin drip
+Imaging notable for: clean CXR
+ 
+On arrival to the MICU, she confirms the above history. 
+
+ 
+Past Medical History:
+ADHD  
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+She has a second cousin with Type 1 diabetes. No other family 
+member with Type 1.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+VITALS: Reviewed in metavision  
+GEN: well appearing, NAD
+HEENT: MM tacky
+CV: RRR, nl s1/s2, no mrg
+PULM: CTA b/l no wrc
+GI: S/ND/NT, no HSM, BS normoactive
+EXT: WWP
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VITALS: 24 HR Data (last updated ___ @ 817)
+Temp: 98.0 (Tm 98.2), BP: 116/74 (103-116/70-74), HR: 81
+(66-96), RR: 18, O2 sat: 99% (97-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Moist mucous membranes.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Breathing comfortably in ra.
+ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all
+four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Distal pulses 2+
+SKIN: Warm and well perfused. No rash.
+NEUROLOGIC: CN2-12 intact. Strength and sensation intact
+throughout. Gait deferred. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM   PLT COUNT-255
+___ 01:53PM   NEUTS-61.4 ___ MONOS-3.8* EOS-1.3 
+BASOS-0.8 IM ___ AbsNeut-4.85 AbsLymp-2.56 AbsMono-0.30 
+AbsEos-0.10 AbsBaso-0.06
+___ 01:53PM   WBC-7.9 RBC-5.29* HGB-16.7* HCT-47.3* MCV-89 
+MCH-31.6 MCHC-35.3 RDW-12.5 RDWSD-41.1
+___ 01:53PM   %HbA1c-10.7* eAG-260*
+___ 01:53PM   GLUCOSE-392* UREA N-20 CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.7 CHLORIDE-89* TOTAL CO2-10* ANION GAP-32*
+___ 02:02PM   O2 SAT-53
+___ 02:02PM   PO2-33* PCO2-33* PH-7.20* TOTAL CO2-13* BASE 
+XS--14
+___ 03:55PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 03:55PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-1000* KETONE-150* BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 06:40PM   GLUCOSE-226* UREA N-15 CREAT-0.9 SODIUM-133* 
+POTASSIUM-5.2 CHLORIDE-106 TOTAL CO2-12* ANION GAP-15
+___ 06:54PM   O2 SAT-62
+___ 06:54PM   GLUCOSE-207* NA+-133 K+-4.4 CL--107 TCO2-14*
+___ 06:54PM   ___ PH-7.23*
+___ 09:57PM   GLUCOSE-211* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-15* ANION GAP-17
+___ 10:12PM   ___ TEMP-36.1 PO2-28* PCO2-39 PH-7.26* 
+TOTAL CO2-18* BASE XS--9
+
+IMAGING: 
+=========
++CHEST (PA & LAT) ___ 
+IMPRESSION:  
+  
+No acute cardiopulmonary process. 
+
+DISCHARGE LABS
+===============
+___ 05:02AM BLOOD WBC-4.8 RBC-4.47 Hgb-13.8 Hct-39.3 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-12.7 RDWSD-40.7 Plt ___
+___ 05:02AM BLOOD Glucose-225* UreaN-15 Creat-0.8 Na-139 
+K-3.5 Cl-105 HCO3-24 AnGap-10
+___ 05:02AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ a ___ year old female with a past medical history 
+of Type 1 DM diagnosed in ___, who presented with nausea, 
+polyuria, polydipsia, weight loss, and fatigue, who was found to 
+be in DKA ___ malfunctioning insulin pump, insufficient 
+subcutaneous insulin, and overall poor compliance to diabetes 
+management. She was initially admitted to the ICU, started on an 
+insulin drip and transitioned to SC insulin based on ___ 
+recommendations. 
+
+ACUTE ISSUES:
+=============
+# Diabetic Ketoacidosis
+# T1DM:
+The patient presented with DKA in setting of occlusion in pump 
+tubing and insufficient supplemental subcutaneous insulin. Of 
+note, her A1c was 10.7, suggesting poor control overall. Her 
+anion gap closed and FSBG ranging from 100 to low 200s on 
+discharge. The patient requested to be switched from an insulin 
+pump to injections. Per ___ recommendation, she will be on 
+Glargine 13U BID (AM and ___, Humalog 8U with all meals, and 
+ISS. She was seen by diabetes educator for education with blood 
+sugar checks and insulin injections. She will be seen by ___ 
+shortly after discharge. 
+
+CHRONIC ISSUES:
+===============
+# ADHD: The patient has not been on Ritalin for 1 month due to 
+losing her home prescription. She states she was diagnosed with 
+ADHD ___ years ago and has been doing well with Ritalin overall. 
+She did not receive Ritalin while inpatient, but should follow 
+up with her PCP to refill her prescription and continue 
+monitoring her symptoms. She is motivated to taper off this 
+medication eventually.
+
+# Anxiety: The patient has not been on Lexapro for >1 week due 
+to not filling her home prescription. She did not require 
+Lexapro during this hospital
+Please answer whether the below factors exist when the give symptom: URINARY ISSUES is existing. 
+There are three possible answers for each factor. YES means a factor exists or ever exits based on the given context, NO means a factor does not exist, NA means a factor is not mentioned in the context
+PLEASE NOTE:
+1. ""deny"" or ""denies"" a symptom means NO. 
+2. a factor need to be treated as NA when it is not mentioned
+3. a factor need to be treated as exist (YES) when it directly relates or cause the current hospital admission, if a factor exists but does not cause the current admission, Please treats the symptom as NA
+ 4. fever means patient body temperature larger or equal than 99 F
+#1#: Urinary issues problem is sand-like sediment in urine
+#2#: Urinary issues problem is strong, persistent urge to urinate
+#3#: Urinary issues problem is urinary casts
+#4#: Urinary issues urine color pink to red (hematuria)
+#5#: Urinary issues urine color soy sauce color or darkened urine color
+
+Please answer the question strictly according to the following format, without any other content. You MUST pick up one to answer (Yes or No or NA).Please answer the question in order with the format #Number#: YES/NO/NA,and without any explain.
+","#1#: NO
+#2#: YES
+#3#: NO
+#4#: NO
+#5#: NO",Urinary issues

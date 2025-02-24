@@ -1,0 +1,1265 @@
+﻿symptom,factor_group,factor,state
+nasal obstruction,N/A,N/A,NA
+runny nose,N/A,N/A,NA
+constipation,N/A,N/A,NA
+blood in stool,N/A,N/A,NA
+abnormal gait,N/A,N/A,NA
+morning stiffness,N/A,N/A,NA
+adult male pelvic pain,N/A,N/A,NA
+adult female pelvic pain,N/A,N/A,NA
+Nasal issues other than congestion and runny nose,N/A,N/A,NA
+Wheezing,N/A,N/A,NO
+Acne,N/A,N/A,NA
+Sneezing,N/A,N/A,NA
+Night sweats,N/A,N/A,NA
+Seizures,N/A,N/A,NA
+Chilblain lupus,N/A,N/A,NA
+Hiccups,N/A,N/A,NA
+Nausea or vomiting,N/A,N/A,YES
+Ear problems,N/A,N/A,NA
+Ear discharge,N/A,N/A,NA
+Ear pain,N/A,N/A,NA
+Cyanosis,N/A,N/A,NA
+Fever,N/A,N/A,NO
+Gynecological and sexual problems,N/A,N/A,NA
+Abdominal discomfort,N/A,N/A,NA
+Abdominal mass,N/A,N/A,NA
+Abdominal pain,N/A,N/A,NA
+Diarrhea,N/A,N/A,NA
+Hepatic pain,N/A,N/A,NA
+Anus and testicular issues,N/A,N/A,NA
+Dysarthria,N/A,N/A,NA
+Bone pain,N/A,N/A,NA
+Joint pain,N/A,N/A,NA
+Cough and expectoration,N/A,N/A,NA
+Hemoptysis (coughing up blood),N/A,N/A,NA
+Shortness of breath or difficulty breathing,N/A,N/A,NA
+Jaundice,N/A,N/A,NA
+Muscle problems,N/A,N/A,NA
+Muscle tremors,N/A,N/A,NA
+Memory problems,N/A,N/A,NA
+Thyroid pain,N/A,N/A,NA
+Shoulder pain,N/A,N/A,NA
+Foot or ankle pain,N/A,N/A,NA
+Swollen feet or legs,N/A,N/A,NA
+Neck pain,N/A,N/A,NA
+Oral issues,N/A,N/A,NA
+Toothache,N/A,N/A,NA
+Hip pain,N/A,N/A,NA
+Urinary issues,N/A,N/A,YES
+Hematemesis,N/A,N/A,NA
+Bowel movement disorders,N/A,N/A,NA
+Skin problems (including oral and other mucosal problems),N/A,N/A,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes),N/A,N/A,NA
+Somatosensory disorders,N/A,N/A,NA
+Cognitive impairment or dementia,N/A,N/A,NA
+Nipple atrophy,N/A,N/A,NA
+Renal pain,N/A,N/A,NA
+Voice abnormalities,N/A,N/A,NA
+Agnosia,N/A,N/A,NA
+Apraxia,N/A,N/A,NA
+Aphasia,N/A,N/A,NA
+Vision problem,N/A,N/A,NA
+Hand numbness or tingling,N/A,N/A,NA
+Edema,N/A,N/A,NA
+Sleep problems (including sleep breathing disorders),N/A,N/A,NA
+Paralysis,N/A,N/A,NA
+Hypothermia,N/A,N/A,NO
+Hearing impairment,N/A,N/A,NA
+Headache,N/A,N/A,NA
+Dizziness,N/A,N/A,NA
+Difficulty swallowing,N/A,N/A,NA
+Hair loss,N/A,N/A,NA
+Knee pain,N/A,N/A,NA
+Palpitations,N/A,N/A,NA
+Chest discomfort,N/A,N/A,NA
+Chest pain,N/A,N/A,NA
+Olfactory disorder,N/A,N/A,NA
+Vertigo,N/A,N/A,NA
+Eye discomfort and redness,N/A,N/A,NA
+Pharyngeal abnormalities,N/A,N/A,NA
+Sore throat,N/A,N/A,NA
+Lower back pain,N/A,N/A,NA
+Confusion,N/A,N/A,NA
+Consciousness disorder,N/A,N/A,NA
+Limb (or whole-body) discomfort or soreness,N/A,N/A,NA
+Hemorrhoids,N/A,N/A,NA
+nasal obstruction, accompanied by, bad breath,NA
+nasal obstruction, accompanied by, ear pain,NA
+nasal obstruction, accompanied by, fatigue,NA
+nasal obstruction, accompanied by, headache or facial pain,NA
+nasal obstruction, accompanied by," itchy eyes, nose, mouth, or throat",NA
+nasal obstruction, accompanied by, mild body aches,NA
+nasal obstruction, accompanied by, reduced sense of smell or taste,NA
+nasal obstruction, accompanied by, maxillary or tooth pain,NA
+nasal obstruction, accompanied by, tearing,NA
+nasal obstruction, manifests as, new-onset,NA
+nasal obstruction, manifests as, progressive,NA
+nasal obstruction, manifests as, alternating,NA
+nasal obstruction, manifests as, persistent,NA
+nasal obstruction, manifests as, paroxysmal,NA
+runny nose, manifests as, watery nasal discharge,NA
+runny nose, manifests as, mucoid nasal discharge,NA
+runny nose, manifests as, purulent nasal discharge,NA
+runny nose, manifests as, mucopurulent nasal discharge,NA
+runny nose, manifests as, bloody nasal discharge,NA
+constipation, accompanied by, unexplained fatigue,NA
+constipation, accompanied by, abdominal pain or bloating,NA
+constipation, accompanied by, anal or rectal pain,NA
+constipation, accompanied by, change in bowel habits lasting more than four weeks,NA
+constipation, accompanied by, abdominal cramps,NA
+constipation, accompanied by, fatigue or weakness,NA
+constipation, accompanied by, bloating,NA
+constipation, accompanied by, increased sensitivity to cold,NA
+constipation, accompanied by, mucus in stool,NA
+constipation, accompanied by, muscle or joint pain,NA
+constipation, accompanied by, muscle weakness,NA
+constipation, accompanied by, narrowing of stool,NA
+constipation, accompanied by, painful bowel movements,NA
+constipation, accompanied by," pale, dry skin",NA
+constipation, accompanied by, unintentional weight gain,NA
+constipation, accompanied by, unintentional weight loss,NA
+constipation, accompanied by, intestinal mass,NA
+constipation, accompanied by, lower abdominal discomfort,NA
+constipation, accompanied by, bitter taste in mouth,NA
+constipation, duration, past few days,NA
+constipation, duration, more than a week but less than a month,NA
+constipation, duration, more than a month,NA
+blood in stool, accompanied by, urgency to defecate,NA
+blood in stool, accompanied by, pus and blood,NA
+blood in stool, accompanied by, abdominal mass,NA
+blood in stool, accompanied by, abdominal pain or cramping,NA
+blood in stool, accompanied by, anal itching,NA
+blood in stool, accompanied by, change in bowel habits lasting more than four weeks,NA
+blood in stool, accompanied by, fatigue or weakness,NA
+blood in stool, accompanied by, frequent urge to defecate,NA
+blood in stool, accompanied by, narrowing of stool,NA
+blood in stool, accompanied by, painful bowel movements,NA
+blood in stool, accompanied by," persistent abdominal discomfort, such as cramping, bloating, or pain",NA
+blood in stool, accompanied by, rectal pain,NA
+blood in stool, accompanied by, unintended weight loss,NA
+blood in stool, duration, past few days,NA
+blood in stool, duration, more than a week but less than a month,NA
+blood in stool, duration, more than a month,NA
+blood in stool, relieving factors, drinking more water,NA
+blood in stool, relieving factors, eating certain foods,NA
+blood in stool, relieving factors, eating more fiber,NA
+blood in stool, color, dark red,NA
+blood in stool, color, bright red,NA
+blood in stool, color, black,NA
+blood in stool, triggers or aggravating factors, alcohol or caffeine consumption,NA
+blood in stool, triggers or aggravating factors, eating certain foods,NA
+blood in stool, triggers or aggravating factors, straining during bowel movements,NA
+abnormal gait, manifests as, spastic hemiparetic gait,NA
+abnormal gait, manifests as, spastic paraparetic gait,NA
+abnormal gait, manifests as, steppage gait,NA
+abnormal gait, manifests as, sensory ataxic gait,NA
+abnormal gait, manifests as, festinating gait,NA
+abnormal gait, manifests as, cerebellar gait,NA
+abnormal gait, manifests as, waddling gait,NA
+adult male pelvic pain, accompanied by, weight gain,NA
+adult male pelvic pain, accompanied by, blood in semen,NA
+adult male pelvic pain, accompanied by," lumps, blisters, or open sores",NA
+adult male pelvic pain, accompanied by, clear penile discharge,NA
+adult male pelvic pain, accompanied by, difficulty urinating or incomplete bladder emptying,NA
+adult male pelvic pain, accompanied by, penile discharge,NA
+adult male pelvic pain, accompanied by, fever,NA
+adult male pelvic pain, accompanied by, frequent urination or urgency,NA
+adult male pelvic pain, accompanied by, scrotal lump or swelling,NA
+adult male pelvic pain, accompanied by, nausea or vomiting,NA
+adult male pelvic pain, accompanied by, purulent penile discharge,NA
+adult male pelvic pain, pain presentation," lower abdominal or groin discomfort, pressure, or pain",NA
+adult male pelvic pain, pain presentation," itching or burning in the genitals, buttocks, or inner thighs",NA
+adult male pelvic pain, pain presentation, penile pain or discomfort,NA
+adult male pelvic pain, pain presentation, pain during intercourse or ejaculation,NA
+adult male pelvic pain, pain presentation, pain during urination,NA
+adult male pelvic pain, pain presentation, testicular pain,NA
+adult female pelvic pain, accompanied by, abnormal vaginal bleeding,NA
+adult female pelvic pain, accompanied by," bloating, constipation, or diarrhea",NA
+adult female pelvic pain, accompanied by," lumps, blisters, or open sores",NA
+adult female pelvic pain, accompanied by, changes in vaginal discharge,NA
+adult female pelvic pain, accompanied by, excessive menstrual bleeding,NA
+adult female pelvic pain, accompanied by, fever,NA
+adult female pelvic pain, accompanied by, frequent urination or urgency,NA
+adult female pelvic pain, accompanied by, increased waist circumference,NA
+adult female pelvic pain, accompanied by, irregular menstruation,NA
+adult female pelvic pain, accompanied by, dizziness or fainting,NA
+adult female pelvic pain, accompanied by, lower back pain,NA
+adult female pelvic pain, accompanied by, mood swings,NA
+adult female pelvic pain, accompanied by, nausea or vomiting,NA
+adult female pelvic pain, accompanied by, painful bowel movements,NA
+adult female pelvic pain, accompanied by, difficulty or pain during urination,NA
+adult female pelvic pain, accompanied by, pain during intercourse,NA
+adult female pelvic pain, accompanied by, rash,NA
+adult female pelvic pain, accompanied by, unexpected weight loss,NA
+adult female pelvic pain, pain characteristics, sudden onset,NA
+adult female pelvic pain, pain characteristics, periodic or recurrent,NA
+adult female pelvic pain, pain characteristics, different from usual menstrual cramps,NA
+adult female pelvic pain, pain characteristics, dull or aching,NA
+adult female pelvic pain, pain characteristics," itching or burning in the genital area, buttocks, or inner thighs",NA
+adult female pelvic pain, pain characteristics, persistent,NA
+adult female pelvic pain, pain characteristics, sharp or cramping,NA
+adult female pelvic pain, triggers or aggravating factors, lifting heavy objects or straining,NA
+adult female pelvic pain, triggers or aggravating factors, menstrual cycle,NA
+adult female pelvic pain, triggers or aggravating factors, exercise or physical activity,NA
+adult female pelvic pain, triggers or aggravating factors, stress,NA
+Nasal issues other than congestion and runny nose, presentation, nosebleed,NA
+Nasal issues other than congestion and runny nose, presentation, nasal itching,NA
+Nasal issues other than congestion and runny nose, presentation, dry nose,NA
+Wheezing, accompanied by, wheeze,NO
+Wheezing, accompanied by, cyanosis of skin or lips,NO
+Wheezing, accompanied by, chest pain or tightness,NO
+Wheezing, accompanied by, difficulty or pain swallowing,NO
+Wheezing, accompanied by, dry cough,NO
+Wheezing, accompanied by, fatigue or weakness,NO
+Wheezing, accompanied by, hoarseness or muffled voice,NO
+Wheezing, accompanied by, shortness of breath,NO
+Wheezing, duration, less than one week,NO
+Wheezing, duration, one week to one month,NO
+Wheezing, duration, one month to one year,NO
+Wheezing, duration, over one year,NO
+Wheezing, triggers or aggravating factors, after an upper respiratory infection,NO
+Wheezing, triggers or aggravating factors, allergens or irritants,NO
+Wheezing, triggers or aggravating factors, exposure to cold air,NO
+Wheezing, triggers or aggravating factors, mild to moderate physical activity,NO
+Wheezing, triggers or aggravating factors, smoking,NO
+Nausea or vomiting, accompanied by, abdominal bloating or swelling,NO
+Nausea or vomiting, accompanied by," abdominal pain, discomfort, or cramps",NO
+Nausea or vomiting, accompanied by, anxiety,YES
+Nausea or vomiting, accompanied by, feeling full after eating a small amount,NO
+Nausea or vomiting, accompanied by, heartburn,NO
+Nausea or vomiting, accompanied by, irregular heartbeat or palpitations,NO
+Nausea or vomiting, accompanied by, sweating,NO
+Nausea or vomiting, accompanied by, acid reflux,NO
+Nausea or vomiting, accompanied by, pain behind the breastbone,NO
+Nausea or vomiting, accompanied by, burning sensation in the chest,NO
+Nausea or vomiting, accompanied by, unexpected weight loss,YES
+Nausea or vomiting, duration, past few hours,NA
+Nausea or vomiting, duration, past few hours to days,YES
+Nausea or vomiting, duration, one week or more,YES
+Nausea or vomiting, duration, recurring,NA
+Nausea or vomiting, triggers or aggravating factors, alcohol consumption,NA
+Nausea or vomiting, triggers or aggravating factors, eating certain foods,NA
+Nausea or vomiting, triggers or aggravating factors, stress,YES
+Nausea or vomiting, triggers or aggravating factors, travel or motion,NA
+Nausea or vomiting, time, morning,NA
+Nausea or vomiting, time, evening,NA
+Nausea or vomiting, time, no specific pattern,YES
+Ear problems, presentation, redness and swelling,NA
+Ear problems, presentation, warmth and pain,NA
+Ear problems, presentation, inflammation of the ear cartilage,NA
+Ear problems, presentation, bleeding from the ear canal,NA
+Ear problems, presentation, postauricular inflammation,NA
+Ear problems, presentation, ear deformity,NA
+Ear problems, presentation, ear abscess,NA
+Ear problems, presentation, hearing loss,NA
+Ear problems, presentation, lumps around the ear,NA
+Ear discharge, presentation, oily ear discharge,NA
+Ear discharge, presentation, serous ear discharge,NA
+Ear discharge, presentation, mucoid ear discharge,NA
+Ear discharge, presentation, watery ear discharge,NA
+Ear discharge, presentation, purulent ear discharge,NA
+Ear discharge, presentation, bloody ear discharge,NA
+Ear pain, pain sensation, dull ache,NA
+Ear pain, pain sensation, stabbing pain,NA
+Ear pain, pain sensation, throbbing pain,NA
+Cyanosis, cyanosis location, generalized cyanosis,NA
+Cyanosis, cyanosis location, limbs,NA
+Cyanosis, cyanosis location, face,NA
+Cyanosis, cyanosis location, torso,NA
+Cyanosis, cyanosis location, extremities,NA
+Cyanosis, cyanotic areas, dependent areas,NA
+Cyanosis, temperature of cyanotic areas, warm,NA
+Cyanosis, temperature of cyanotic areas, cold,NA
+Fever, accompanied by, chills or shivering,NO
+Fever, accompanied by, pale skin,NO
+Fever, accompanied by, convulsions,NO
+Fever, accompanied by, increased sweating,NO
+Fever, accompanied by, fatigue or weakness,NO
+Fever, accompanied by, muscle aches,NO
+Fever, duration, several hours to a day,NO
+Fever, duration, one to two days,NO
+Fever, duration, several days to a week,NO
+Fever, duration, more than a week,NO
+Gynecological and sexual problems, manifested as, galactorrhea,NA
+Gynecological and sexual problems, manifested as, vaginal bleeding,NA
+Gynecological and sexual problems, manifested as, decreased libido,NA
+Gynecological and sexual problems, manifested as, menstrual irregularities,NA
+Gynecological and sexual problems, manifested as, vulvar ulcers,NA
+Gynecological and sexual problems, manifested as, amenorrhea,NA
+Abdominal discomfort, accompanied by, bloating,NA
+Abdominal discomfort, accompanied by, urge to defecate but unable to,NA
+Abdominal discomfort, accompanied by, loose stools,NA
+Abdominal discomfort, accompanied by, flatulence,NA
+Abdominal discomfort, accompanied by, pulsating sensation near the navel,NA
+Abdominal discomfort, accompanied by, changes in bowel habits,NA
+Abdominal discomfort, accompanied by, stomach rumbling or growling,NA
+Abdominal discomfort, accompanied by, unintentional weight loss,NA
+Abdominal discomfort, relieved by, antacids,NA
+Abdominal discomfort, relieved by, avoiding certain foods,NA
+Abdominal discomfort, relieved by," lying face down, squatting, bending forward, or curling up on the side",NA
+Abdominal discomfort, relieved by, drinking more water,NA
+Abdominal discomfort, relieved by, eating certain foods,NA
+Abdominal discomfort, relieved by, bowel movements,NA
+Abdominal discomfort, relieved by, eating more fiber,NA
+Abdominal discomfort, location, entire abdomen,NA
+Abdominal discomfort, location, lower abdomen,NA
+Abdominal discomfort, location, upper middle abdomen,NA
+Abdominal discomfort, location, upper abdomen,NA
+Abdominal discomfort, location, right upper abdomen,NA
+Abdominal discomfort, location, navel and around the navel,NA
+Abdominal discomfort, location, left lower abdomen,NA
+Abdominal discomfort, location, left upper abdomen,NA
+Abdominal discomfort, location, right lower abdomen,NA
+Abdominal discomfort, triggering or worsening factors, coughing or other vibrations,NA
+Abdominal discomfort, triggering or worsening factors, lying on the back,NA
+Abdominal discomfort, triggering or worsening factors, alcohol consumption,NA
+Abdominal discomfort, triggering or worsening factors, eating or consuming certain greasy foods,NA
+Abdominal discomfort, triggering or worsening factors, menstrual cycle,NA
+Abdominal discomfort, triggering or worsening factors, stress,NA
+Abdominal discomfort, triggering or worsening factors, postprandial pain,NA
+Abdominal pain, accompanied by, urge to defecate but unable to,NA
+Abdominal pain, accompanied by, loose stools,NA
+Abdominal pain, accompanied by, nausea or vomiting,NA
+Abdominal pain, accompanied by, flatulence,NA
+Abdominal pain, accompanied by, pulsating sensation near the navel,NA
+Abdominal pain, accompanied by, rash,NA
+Abdominal pain, accompanied by, changes in bowel habits,NA
+Abdominal pain, accompanied by, stomach rumbling or growling,NA
+Abdominal pain, accompanied by, unintentional weight loss,NA
+Abdominal pain, duration," new pain, recent days",NA
+Abdominal pain, duration, existing for a long time (months or more),NA
+Abdominal pain, relieved by, antacids,NA
+Abdominal pain, relieved by, avoiding certain foods,NA
+Abdominal pain, relieved by, changing posture,NA
+Abdominal pain, relieved by," lying face down, squatting, bending forward, or curling up on the side",NA
+Abdominal pain, relieved by, drinking more water,NA
+Abdominal pain, relieved by, eating certain foods,NA
+Abdominal pain, relieved by, bowel movements,NA
+Abdominal pain, relieved by, eating more fiber,NA
+Abdominal pain, pain sensation is, burning pain,NA
+Abdominal pain, pain sensation is, colic,NA
+Abdominal pain, pain sensation is, stabbing pain,NA
+Abdominal pain, pain sensation is, tenderness,NA
+Abdominal pain, pain sensation is, cramps,NA
+Abdominal pain, pain sensation is, dull ache,NA
+Abdominal pain, pain sensation is, gnawing pain,NA
+Abdominal pain, pain sensation is, distending pain,NA
+Abdominal pain, pain sensation is, severe pain,NA
+Abdominal pain, pain sensation is, sharp pain,NA
+Abdominal pain, pain sensation is, worsening or intensifying,NA
+Abdominal pain, pain location is, abdomen but radiating to other parts of the body,NA
+Abdominal pain, pain location is, entire abdomen pain,NA
+Abdominal pain, pain location is, upper middle abdomen,NA
+Abdominal pain, pain location is, upper abdomen,NA
+Abdominal pain, pain location is, left upper abdomen,NA
+Abdominal pain, pain location is, right upper abdomen,NA
+Abdominal pain, pain location is, navel and around the navel,NA
+Abdominal pain, pain location is, lower abdomen,NA
+Abdominal pain, pain location is, left lower abdomen,NA
+Abdominal pain, pain location is, right lower abdomen,NA
+Abdominal pain, pain nature, cyclic pain,NA
+Abdominal pain, triggering or worsening factors, coughing or other vibrations,NA
+Abdominal pain, triggering or worsening factors, lying on the back,NA
+Abdominal pain, triggering or worsening factors, alcohol consumption,NA
+Abdominal pain, triggering or worsening factors, eating or consuming certain greasy foods,NA
+Abdominal pain, triggering or worsening factors, menstrual cycle,NA
+Abdominal pain, triggering or worsening factors, stress,NA
+Abdominal pain, triggering or worsening factors, postprandial pain,NA
+Diarrhea, accompanied by, abdominal pain or cramps,NA
+Diarrhea, accompanied by, abdominal bloating or swelling,NA
+Diarrhea, accompanied by, mucus in stool,NA
+Diarrhea, accompanied by, muscle or joint pain,NA
+Diarrhea, accompanied by, nausea or vomiting,NA
+Diarrhea, accompanied by, flatulence,NA
+Diarrhea, accompanied by, unintentional weight loss,NA
+Diarrhea, accompanied by, urgency to defecate,NA
+Diarrhea, accompanied by, emaciation,NA
+Diarrhea, accompanied by, joint swelling,NA
+Diarrhea, accompanied by, change in bowel habits,NA
+Diarrhea, accompanied by, tenesmus,NA
+Diarrhea, duration, persistent or recurrent (weeks to years),NA
+Diarrhea, duration, recent onset (hours to weeks),NA
+Diarrhea, relief, avoiding certain foods,NA
+Diarrhea, trigger or aggravating factors, consumption of suspicious foods,NA
+Diarrhea, trigger or aggravating factors, recent use of antibiotics,NA
+Diarrhea, trigger or aggravating factors, consumption of certain foods,NA
+Anus and testicular issues, presentation, anal fissure,NA
+Anus and testicular issues, presentation, anal pain,NA
+Anus and testicular issues, presentation, anal papillary inflammation,NA
+Anus and testicular issues, presentation, testicular pain,NA
+Anus and testicular issues, presentation, testicular atrophy,NA
+Anus and testicular issues, presentation, painless testicular enlargement,NA
+Anus and testicular issues, presentation, testicular hardening,NA
+Anus and testicular issues, presentation, testicular swelling,NA
+Dysarthria, presentation, nasal speech,NA
+Dysarthria, presentation, hoarse voice,NA
+Dysarthria, presentation, slow speech,NA
+Dysarthria, presentation, monotonous pronunciation,NA
+Dysarthria, presentation, low-pitched voice,NA
+Dysarthria, presentation, slow and slurred speech,NA
+Dysarthria, presentation, syllable tremor-like fusion,NA
+Dysarthria, presentation, speech fragmentation,NA
+Dysarthria, presentation, stuttering-like repetition,NA
+Dysarthria, presentation, syllable prolongation,NA
+Dysarthria, presentation, explosive voice,NA
+Dysarthria, presentation, incoherent speech,NA
+Dysarthria, presentation, effortful articulation,NA
+Dysarthria, presentation, varying voice strength,NA
+Bone pain, location, lumbosacral pain,NA
+Bone pain, location, lower limb bone pain,NA
+Bone pain, location, chest bone pain,NA
+Joint pain, accompanied by, joint deformity,NA
+Joint pain, accompanied by, redness,NA
+Joint pain, accompanied by, swelling,NA
+Joint pain, accompanied by, inflammation,NA
+Joint pain, accompanied by, tenderness,NA
+Joint pain, accompanied by, limited mobility,NA
+Joint pain, accompanied by, symmetric small joint pain,NA
+Joint pain, accompanied by, erythema,NA
+Joint pain, accompanied by, morning stiffness,NA
+Joint pain, location, palm,NA
+Joint pain, location, fingers,NA
+Joint pain, location, wrist,NA
+Joint pain, location, toes,NA
+Joint pain, location, elbow joint,NA
+Joint pain, location, shoulder joint,NA
+Joint pain, location, ankle joint,NA
+Joint pain, location, knee joint,NA
+Joint pain, location, greater trochanter,NA
+Joint pain, location, ischial tuberosity,NA
+Joint pain, location, costochondral junction,NA
+Joint pain, location, heel,NA
+Joint pain, location, sole of the foot,NA
+Joint pain, location, first metatarsophalangeal joint,NA
+Joint pain, location, symmetric joint pain,NA
+Joint pain, duration, less than a week,NA
+Joint pain, duration, one week to one month,NA
+Joint pain, duration, one month to one year,NA
+Joint pain, duration, more than a year,NA
+Joint pain, duration, new onset,NA
+Joint pain, duration, recurrent,NA
+Joint pain, triggering factors, cold,NA
+Joint pain, triggering factors, excessive activity,NA
+Joint pain, triggering factors, weight-bearing,NA
+Cough and expectoration, accompanied by, purulent sputum,NA
+Cough and expectoration, accompanied by, chest pain or tightness,NA
+Cough and expectoration, accompanied by, chills or sweating,NA
+Cough and expectoration, accompanied by, difficulty or pain in swallowing,NA
+Cough and expectoration, accompanied by, fatigue,NA
+Cough and expectoration, accompanied by, headache or facial pain,NA
+Cough and expectoration, accompanied by, hoarse voice,NA
+Cough and expectoration, accompanied by, loss of appetite,NA
+Cough and expectoration, accompanied by, muscle pain,NA
+Cough and expectoration, accompanied by, shortness of breath,NA
+Cough and expectoration, accompanied by, sneezing,NA
+Cough and expectoration, accompanied by, sore throat,NA
+Cough and expectoration, accompanied by, watery or itchy eyes,NA
+Cough and expectoration, accompanied by, wheezing,NA
+Cough and expectoration, duration, one or two days,NA
+Cough and expectoration, duration, several days to one week,NA
+Cough and expectoration, duration, one week to one month,NA
+Cough and expectoration, duration, one month to one year,NA
+Cough and expectoration, duration, more than a year,NA
+Cough and expectoration, onset time, night,NA
+Cough and expectoration, onset time, daytime,NA
+Cough and expectoration, onset time, all day,NA
+Cough and expectoration, onset time, sudden onset,NA
+Cough and expectoration, triggered or worsened by, allergens or irritants,NA
+Cough and expectoration, cough is, dry cough,NA
+Cough and expectoration, cough is, productive or with sputum,NA
+Cough and expectoration, sputum color is, white and frothy,NA
+Cough and expectoration, sputum color is, yellow and thick,NA
+Cough and expectoration, sputum color is, rust-colored or brownish-red,NA
+Cough and expectoration, sputum color is, coffee-colored,NA
+Cough and expectoration, sputum color is, sauce-like sputum,NA
+Cough and expectoration, sputum color is, pink and frothy,NA
+Cough and expectoration, the problem is, worsening or progression,NA
+Hemoptysis (coughing up blood), accompanied by, wheezing,NA
+Hemoptysis (coughing up blood), accompanied by, itchy throat,NA
+Shortness of breath or difficulty breathing, accompanied by, chest tightness,NA
+Shortness of breath or difficulty breathing, accompanied by, chest pain or tightness,NA
+Shortness of breath or difficulty breathing, accompanied by, fatigue or weakness,NA
+Shortness of breath or difficulty breathing, accompanied by, irregular or rapid heartbeat,NA
+Shortness of breath or difficulty breathing, accompanied by, pale or bluish skin,NA
+Shortness of breath or difficulty breathing, accompanied by, recent rapid weight gain,NA
+Shortness of breath or difficulty breathing, accompanied by, sweating,NA
+Shortness of breath or difficulty breathing, accompanied by, trembling,NA
+Shortness of breath or difficulty breathing, accompanied by, wheezing,NA
+Shortness of breath or difficulty breathing, duration is, new onset lasting several days,NA
+Shortness of breath or difficulty breathing, duration is, lasting several days to a month,NA
+Shortness of breath or difficulty breathing, duration is, lasting from one month to a year,NA
+Shortness of breath or difficulty breathing, duration is, lasting more than a year,NA
+Shortness of breath or difficulty breathing, onset time is, during the day,NA
+Shortness of breath or difficulty breathing, onset time is, during the night,NA
+Shortness of breath or difficulty breathing, onset time is, throughout the day,NA
+Shortness of breath or difficulty breathing, severity, need to orthopnea (shortness of breath while lying flat),NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, trauma or injury,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, upper respiratory infection,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, allergens or irritants,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, anxiety or stress,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors," coughing, sneezing, or deep breathing",NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, exposure to cold air,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, mild to moderate activity,NA
+Shortness of breath or difficulty breathing, triggers or aggravating factors, smoking,NA
+Jaundice, accompanied by, chills,NA
+Jaundice, accompanied by, itchy skin,NA
+Jaundice, accompanied by, loss of appetite,NA
+Muscle problems, manifested by, muscle pain,NA
+Muscle problems, manifested by, muscle atrophy,NA
+Muscle problems, manifested by, reduced muscle tone,NA
+Muscle tremors, accompanied by, vision or hearing impairment,NA
+Muscle tremors, accompanied by, limb weakness,NA
+Muscle tremors, accompanied by, anxiety,NA
+Muscle tremors, accompanied by, cold sweats,NA
+Muscle tremors, accompanied by, twitching,NA
+Muscle tremors, manifested by, resting tremor,NA
+Muscle tremors, manifested by, action tremor,NA
+Muscle tremors, manifested by, chorea-like movements,NA
+Muscle tremors, manifested by, hemiballismus (involuntary flinging movements),NA
+Muscle tremors, type is, resting tremor,NA
+Muscle tremors, type is, athetosis,NA
+Muscle tremors, type is, dystonia,NA
+Muscle tremors, type is, tic disorder,NA
+Memory problems, manifested by, memory lapses,NA
+Memory problems, manifested by, confabulation (fabricated memories),NA
+Memory problems, manifested by, fictitious memories,NA
+Memory problems, manifested by, anterograde amnesia,NA
+Memory problems, manifested by, retrograde amnesia,NA
+Memory problems, manifested by, memory decline,NA
+Memory problems, manifested by, memory errors,NA
+Memory problems, manifested by, memory enhancement,NA
+Shoulder pain, accompanied by, inability to move shoulder,NA
+Shoulder pain, accompanied by, muscle spasms,NA
+Shoulder pain, accompanied by, numbness or tingling,NA
+Shoulder pain, accompanied by, shoulder or arm weakness,NA
+Shoulder pain, accompanied by, shoulder stiffness,NA
+Shoulder pain, accompanied by, swelling,NA
+Shoulder pain, accompanied by, visible deformity,NA
+Shoulder pain, triggers or aggravating factors are, daily activities,NA
+Shoulder pain, triggers or aggravating factors are, injury,NA
+Shoulder pain, triggers or aggravating factors are, overuse or strain,NA
+Shoulder pain, triggers or aggravating factors are, rest or inactivity,NA
+Shoulder pain, onset is, gradual,NA
+Shoulder pain, onset is, sudden,NA
+Shoulder pain, pain sensation is, dull or aching,NA
+Shoulder pain, pain sensation is, sharp or severe,NA
+Foot or ankle pain, accompanied by, periorbital swelling (swelling around the eyes),NA
+Foot or ankle pain, accompanied by, bruising,NA
+Foot or ankle pain, accompanied by, burning sensation,NA
+Foot or ankle pain, accompanied by, difficulty pushing off with toes,NA
+Foot or ankle pain, accompanied by, feeling of instability,NA
+Foot or ankle pain, accompanied by, fallen arches,NA
+Foot or ankle pain, accompanied by, inability to bear weight,NA
+Foot or ankle pain, accompanied by, joint deformity,NA
+Foot or ankle pain, accompanied by, numbness or tingling,NA
+Foot or ankle pain, accompanied by, redness and swelling,NA
+Foot or ankle pain, accompanied by, stiffness,NA
+Foot or ankle pain, accompanied by, swelling,NA
+Foot or ankle pain, accompanied by, thick or rough skin,NA
+Foot or ankle pain, located at, ankle joint,NA
+Foot or ankle pain, located at, around the toenail area,NA
+Foot or ankle pain, located at, back of the ankle,NA
+Foot or ankle pain, located at, sole of the foot,NA
+Foot or ankle pain, located at, heel,NA
+Foot or ankle pain, located at, midfoot,NA
+Foot or ankle pain, located at, toes or forefoot,NA
+Foot or ankle pain, located at, the entire foot,NA
+Foot or ankle pain, triggered or worsened by, activity or overuse,NA
+Foot or ankle pain, triggered or worsened by, ill-fitting shoes,NA
+Foot or ankle pain, triggered or worsened by, injury,NA
+Foot or ankle pain, triggered or worsened by, prolonged rest,NA
+Swollen feet or legs, accompanied by, dilated veins or purplish color in the affected leg,NA
+Swollen feet or legs, accompanied by, pale and cool entire leg or calf,NA
+Swollen feet or legs, accompanied by, fatigue,NA
+Swollen feet or legs, accompanied by, hardening of the skin in the affected area,NA
+Swollen feet or legs, accompanied by, a feeling of heaviness in the affected limb,NA
+Swollen feet or legs, accompanied by, loss of appetite,NA
+Swollen feet or legs, accompanied by, nausea,NA
+Swollen feet or legs, accompanied by," pain, tenderness, or soreness in the affected area",NA
+Swollen feet or legs, accompanied by, persistent cough,NA
+Swollen feet or legs, accompanied by, rapid or irregular heartbeat,NA
+Swollen feet or legs, accompanied by, redness and warmth in the affected area,NA
+Swollen feet or legs, accompanied by," shortness of breath, possibly interfering with sleep unless propped up",NA
+Swollen feet or legs, accompanied by, stiffness,NA
+Swollen feet or legs, accompanied by, stiffness or limited mobility,NA
+Swollen feet or legs, accompanied by, swelling,NA
+Swollen feet or legs, accompanied by, swelling in the abdomen or other parts of the body,NA
+Swollen feet or legs, accompanied by, weakness,NA
+Swollen feet or legs, pain sensation is, dull ache or soreness,NA
+Swollen feet or legs, pain sensation is, gradually worsening,NA
+Swollen feet or legs, relieved by, walking,NA
+Swollen feet or legs, triggered or worsened by, inactivity or prolonged rest,NA
+Swollen feet or legs, triggered or worsened by, prolonged sitting or standing,NA
+Swollen feet or legs, triggered or worsened by, activity or overuse,NA
+Swollen feet or legs, triggered or worsened by, daily activities,NA
+Swollen feet or legs, triggered or worsened by, injury,NA
+Swollen feet or legs, triggered or worsened by, exercise,NA
+Swollen feet or legs, swelling occurs, along the entire limb,NA
+Swollen feet or legs, swelling occurs, around the ankle or foot,NA
+Swollen feet or legs, swelling occurs, around the knee,NA
+Swollen feet or legs, swelling occurs, in both limbs,NA
+Swollen feet or legs, swelling occurs, in one limb,NA
+Neck pain, accompanied by, reduced range of motion or stiffness in the neck,NA
+Neck pain, accompanied by, headache,NA
+Neck pain, accompanied by, loss of balance or coordination,NA
+Neck pain, accompanied by, loss of bowel or bladder control,NA
+Neck pain, accompanied by, muscle weakness,NA
+Neck pain, accompanied by, numbness or tingling in the limbs,NA
+Neck pain, accompanied by," pain in the shoulder, arm, or chest",NA
+Neck pain, pain onset, gradual,NA
+Neck pain, pain onset, sudden,NA
+Neck pain, triggered or worsened by, injury,NA
+Neck pain, triggered or worsened by, physical activity,NA
+Neck pain, triggered or worsened by, poor posture,NA
+Neck pain, triggered or worsened by, stress,NA
+Oral issues, symptoms, cracked corners of the mouth,NA
+Oral issues, symptoms, angular cheilitis,NA
+Oral issues, symptoms, mouth ulcers,NA
+Oral issues, symptoms, blood blisters in the mouth,NA
+Oral issues, symptoms, tongue pain,NA
+Oral issues, symptoms, glossitis,NA
+Oral issues, symptoms, redness and swelling,NA
+Oral issues, symptoms, bleeding gums,NA
+Oral issues, symptoms, gum abscess,NA
+Oral issues, symptoms, gum recession,NA
+Oral issues, symptoms, dental calculus,NA
+Oral issues, symptoms, abnormal tongue coating,NA
+Oral issues, symptoms, loose teeth,NA
+Toothache, pain type, sharp pain,NA
+Toothache, pain type, dull pain,NA
+Toothache, pain type, spontaneous pain,NA
+Toothache, pain type, provoked pain,NA
+Toothache, pain type, paroxysmal pain,NA
+Toothache, pain type, constant pain,NA
+Toothache, pain type, severe pain,NA
+Toothache, pain type, mild pain,NA
+Toothache, duration, less than a week,NA
+Toothache, duration, one week to one year,NA
+Toothache, duration, more than a year,NA
+Hip pain, accompanied by, reduced range of motion,NA
+Hip pain, accompanied by, catching or clicking sensation,NA
+Hip pain, accompanied by, stiffness,NA
+Hip pain, triggered or worsened by, activity or overuse,NA
+Hip pain, triggered or worsened by, pressure or weight-bearing,NA
+Hip pain, triggered or worsened by, injury,NA
+Hip pain, triggered or worsened by, prolonged rest,NA
+Hip pain, triggered or worsened by, exercise,NA
+Hip pain, triggered or worsened by, overuse,NA
+Hip pain, pain sensation is, dull ache or soreness,NA
+Hip pain, pain sensation is, in the groin,NA
+Hip pain, pain sensation is, located on the outside of the hip (greater trochanter),NA
+Hip pain, pain sensation is, sudden and severe,NA
+Urinary issues, accompanied by, blurred vision,NO
+Urinary issues, accompanied by," lumps, blisters, or sores around the genital area",NO
+Urinary issues, accompanied by, changes in vaginal discharge,NO
+Urinary issues, accompanied by, clear discharge from the penis,NO
+Urinary issues, accompanied by, extreme thirst or hunger,YES
+Urinary issues, accompanied by, fatigue,YES
+Urinary issues, accompanied by, purulent discharge from the penis,NO
+Urinary issues, accompanied by, unintentional weight loss,YES
+Urinary issues, accompanied by, vaginal odor,NO
+Urinary issues, exacerbating factors, menstrual cycle,NO
+Urinary issues, exacerbating factors, stress,NO
+Urinary issues, urine color, pink to red (hematuria),NO
+Urinary issues, urine color, soy sauce color or darkened urine color,NO
+Urinary issues, problem is, proteinuria (foamy urine),NO
+Urinary issues, problem is, urinary casts,NO
+Urinary issues, problem is, sand-like sediment in urine,NO
+Urinary issues, problem is, occurs in the morning,NO
+Urinary issues, problem is, pyuria,NO
+Urinary issues, problem is, getting up two or more times at night to urinate,NO
+Urinary issues, problem is, blood in urine,NO
+Urinary issues, problem is, cloudy urine,NO
+Urinary issues, problem is, interrupted urine flow,NO
+Urinary issues, problem is, difficulty emptying bladder or weak urine stream,NO
+Urinary issues, problem is, oliguria or anuria,NO
+Urinary issues, problem is, difficulty starting urination,NO
+Urinary issues, problem is, frequent urination,YES
+Urinary issues, problem is, involuntary urinary incontinence,NO
+Urinary issues, problem is, pain or burning sensation during urination,NO
+Urinary issues, problem is," strong, persistent urge to urinate",YES
+Urinary issues, problem is, genital pain,NO
+Urinary issues, associated pain involves," itching or burning sensation in the genital area, buttocks, or inner thighs",NO
+Urinary issues, associated pain involves, back or side pain,NO
+Urinary issues, associated pain involves, lower abdominal or groin pain,NO
+Urinary issues, associated pain involves, pain during ejaculation,NO
+Urinary issues, associated pain involves, pain during intercourse,NO
+Hematemesis, accompanied by, chest tightness,NA
+Hematemesis, accompanied by, upper abdominal discomfort,NA
+Hematemesis, blood color, dark red,NA
+Hematemesis, blood color, bright red,NA
+Bowel movement disorders, manifest as, excessive bowel movements (more than 3 times a day),NA
+Bowel movement disorders, manifest as, infrequent bowel movements (less than 3 times a week),NA
+Bowel movement disorders, manifest as, constipation,NA
+Bowel movement disorders, manifest as, fecal incontinence,NA
+Bowel movement disorders, manifest as, autonomic bowel movements,NA
+Bowel movement disorders, manifest as, urgency to defecate,NA
+Skin problems (including oral and other mucosal problems), manifest as, spider angiomas,NA
+Skin problems (including oral and other mucosal problems), manifest as, rash,NA
+Skin problems (including oral and other mucosal problems), manifest as, plaques or patches,NA
+Skin problems (including oral and other mucosal problems), manifest as, papules,NA
+Skin problems (including oral and other mucosal problems), manifest as, wheals,NA
+Skin problems (including oral and other mucosal problems), manifest as, vesicles or bullae,NA
+Skin problems (including oral and other mucosal problems), manifest as, blood blisters,NA
+Skin problems (including oral and other mucosal problems), manifest as, jaundice,NA
+Skin problems (including oral and other mucosal problems), manifest as, flushing,NA
+Skin problems (including oral and other mucosal problems), manifest as, nodules,NA
+Skin problems (including oral and other mucosal problems), manifest as, cysts,NA
+Skin problems (including oral and other mucosal problems), manifest as, erosion,NA
+Skin problems (including oral and other mucosal problems), manifest as, ulcers,NA
+Skin problems (including oral and other mucosal problems), manifest as, scales,NA
+Skin problems (including oral and other mucosal problems), manifest as, fissures (cracks),NA
+Skin problems (including oral and other mucosal problems), manifest as, atrophy,NA
+Skin problems (including oral and other mucosal problems), manifest as, scabs,NA
+Skin problems (including oral and other mucosal problems), manifest as, scars,NA
+Skin problems (including oral and other mucosal problems), manifest as, erysipelas,NA
+Skin problems (including oral and other mucosal problems), manifest as, boils,NA
+Skin problems (including oral and other mucosal problems), manifest as, carbuncles,NA
+Skin problems (including oral and other mucosal problems), manifest as, warts,NA
+Skin problems (including oral and other mucosal problems), manifest as, tinea,NA
+Skin problems (including oral and other mucosal problems), manifest as, keratosis,NA
+Skin problems (including oral and other mucosal problems), manifest as, thickened or cloudy nails (toenails),NA
+Skin problems (including oral and other mucosal problems), manifest as, paronychia,NA
+Skin problems (including oral and other mucosal problems), manifest as, infiltrative plaques,NA
+Skin problems (including oral and other mucosal problems), manifest as, granulomas,NA
+Skin problems (including oral and other mucosal problems), manifest as, erythema,NA
+Skin problems (including oral and other mucosal problems), manifest as, eczema,NA
+Skin problems (including oral and other mucosal problems), location, oral mucosa,NA
+Skin problems (including oral and other mucosal problems), location, scalp,NA
+Skin problems (including oral and other mucosal problems), location, perioral,NA
+Skin problems (including oral and other mucosal problems), location, gums,NA
+Skin problems (including oral and other mucosal problems), location, tongue,NA
+Skin problems (including oral and other mucosal problems), location, hard palate,NA
+Skin problems (including oral and other mucosal problems), location, pharynx,NA
+Skin problems (including oral and other mucosal problems), location, hands,NA
+Skin problems (including oral and other mucosal problems), location, feet,NA
+Skin problems (including oral and other mucosal problems), location, back of the hand,NA
+Skin problems (including oral and other mucosal problems), location, back of the fingers,NA
+Skin problems (including oral and other mucosal problems), location, buttocks,NA
+Skin problems (including oral and other mucosal problems), location, lower legs,NA
+Skin problems (including oral and other mucosal problems), location, groin,NA
+Skin problems (including oral and other mucosal problems), location, genitals,NA
+Skin problems (including oral and other mucosal problems), location, respiratory tract,NA
+Skin problems (including oral and other mucosal problems), location, neck,NA
+Skin problems (including oral and other mucosal problems), location, anus or perianal area,NA
+Skin problems (including oral and other mucosal problems), location, umbilical area,NA
+Skin problems (including oral and other mucosal problems), location, trunk,NA
+Skin problems (including oral and other mucosal problems), location, lower abdomen,NA
+Skin problems (including oral and other mucosal problems), manifestation, raised,NA
+Skin problems (including oral and other mucosal problems), manifestation, not raised,NA
+Skin problems (including oral and other mucosal problems), manifestation, hard lump,NA
+Skin problems (including oral and other mucosal problems), manifestation, rough or uneven texture,NA
+Skin problems (including oral and other mucosal problems), manifestation, cauliflower-like,NA
+Skin problems (including oral and other mucosal problems), manifestation, itching,NA
+Skin problems (including oral and other mucosal problems), manifestation, swelling and pain,NA
+Skin problems (including oral and other mucosal problems), manifestation, pustules,NA
+Skin problems (including oral and other mucosal problems), manifestation, erythema,NA
+Skin problems (including oral and other mucosal problems), manifestation, burning pain,NA
+Skin problems (including oral and other mucosal problems), manifestation, fever,NA
+Skin problems (including oral and other mucosal problems), manifestation, burning sensation,NA
+Skin problems (including oral and other mucosal problems), manifestation, infiltration,NA
+Skin problems (including oral and other mucosal problems), manifestation, crawling sensation,NA
+Skin problems (including oral and other mucosal problems), color, red,NA
+Skin problems (including oral and other mucosal problems), color, purple,NA
+Skin problems (including oral and other mucosal problems), color, yellow,NA
+Skin problems (including oral and other mucosal problems), color, pale yellow,NA
+Skin problems (including oral and other mucosal problems), color, dark brown,NA
+Skin problems (including oral and other mucosal problems), color, pearly,NA
+Skin problems (including oral and other mucosal problems), color, pale,NA
+Skin problems (including oral and other mucosal problems), color, gray,NA
+Skin problems (including oral and other mucosal problems), color, white,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, blood in stool,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, blood in urine,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, black stool,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, nosebleed,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, gum bleeding,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, limbs,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, lower limbs,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, buttocks,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, trunk,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, purpura or ecchymosis,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, widespread bleeding throughout the body,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, retinal hemorrhage,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), manifestation, menorrhagia,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), duration, several hours to a day,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), duration, one to two days,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), duration, several days to a week,NA
+Subcutaneous bleeding (including bleeding from the mouth and other mucous membranes), duration, more than a week,NA
+Somatosensory disorders, manifestation," inhibitory symptoms (reduction or loss of pain, temperature, touch, or deep sensation)",NA
+Somatosensory disorders, manifestation, hyperesthesia,NA
+Somatosensory disorders, manifestation, hypersensitivity,NA
+Somatosensory disorders, manifestation, dysesthesia,NA
+Somatosensory disorders, manifestation," paresthesia (numbness, itching, pressure, crawling sensation)",NA
+Somatosensory disorders, manifestation," pain (localized pain, radiating pain, diffuse pain, referred pain, limb pain, burning neuralgia)",NA
+Cognitive impairment or dementia, manifestation, cognitive decline,NA
+Cognitive impairment or dementia, manifestation, dementia,NA
+Voice abnormalities, manifestation, slurred speech,NA
+Voice abnormalities, manifestation, change in tone,NA
+Voice abnormalities, manifestation, hoarseness,NA
+Agnosia, manifestation, visual agnosia,NA
+Agnosia, manifestation, auditory agnosia,NA
+Agnosia, manifestation, tactile agnosia,NA
+Agnosia, manifestation, body schema disturbance,NA
+Apraxia, manifestation, ideational apraxia,NA
+Apraxia, manifestation, limb-kinetic apraxia,NA
+Apraxia, manifestation, ideomotor apraxia,NA
+Apraxia, manifestation, dressing apraxia,NA
+Apraxia, manifestation, constructional apraxia,NA
+Aphasia, manifestation, Broca's aphasia,NA
+Aphasia, manifestation, Wernicke's aphasia,NA
+Aphasia, manifestation, conduction aphasia,NA
+Aphasia, manifestation, global aphasia,NA
+Aphasia, manifestation, anomic aphasia,NA
+Aphasia, manifestation, thalamic aphasia,NA
+Aphasia, manifestation, transcortical motor aphasia,NA
+Aphasia, manifestation, transcortical sensory aphasia,NA
+Aphasia, manifestation, transcortical mixed aphasia,NA
+Vision problem, accompanied by, confusion or difficulty speaking,NA
+Vision problem, accompanied by, dizziness or difficulty walking,NA
+Vision problem, accompanied by, eye pain or discomfort,NA
+Vision problem, accompanied by, eye redness,NA
+Vision problem, accompanied by, eye fatigue,NA
+Vision problem, accompanied by, headache,NA
+Vision problem, accompanied by, numbness or weakness on one side of the body,NA
+Vision problem, accompanied by, other sensory disturbances,NA
+Vision problem, manifestation, eye movement disorders,NA
+Vision problem, manifestation, nystagmus,NA
+Vision problem, manifestation, sudden visual impairment,NA
+Vision problem, manifestation, progressive monocular visual impairment,NA
+Vision problem, manifestation, binocular visual impairment,NA
+Vision problem, manifestation, general binocular visual impairment,NA
+Vision problem, manifestation, progressive visual impairment,NA
+Vision problem, manifestation, bitemporal hemianopia,NA
+Vision problem, manifestation, homonymous hemianopia,NA
+Vision problem, manifestation, upper quadrant homonymous hemianopia,NA
+Vision problem, manifestation, contralateral homonymous lower quadrantanopia in both eyes,NA
+Vision problem, manifestation, visuospatial impairment,NA
+Vision problem, manifestation, papilledema,NA
+Vision problem, manifestation, blindness,NA
+Vision problem, manifestation, visual field defect,NA
+Vision problem, located in, one eye,NA
+Vision problem, located in, both eyes,NA
+Vision problem, duration, less than a minute,NA
+Vision problem, duration, one minute to several hours,NA
+Vision problem, duration, more than several hours,NA
+Vision problem, duration, a few minutes,NA
+Vision problem, duration, usually less than 30 minutes,NA
+Vision problem, onset is, gradual or progressive,NA
+Vision problem, onset is, recent (hours to days),NA
+Vision problem, onset is, sudden (seconds to minutes),NA
+Vision problem," vision slightly improves, condition is", moving the object away from the face,NA
+Vision problem," vision slightly improves, condition is", moving the object closer to the face,NA
+Vision problem," vision slightly improves, condition is", squinting,NA
+Vision problem," vision slightly improves, condition is", using bright lighting,NA
+Vision problem, problem is, blurry distant objects,NA
+Vision problem, problem is, blurry near objects,NA
+Vision problem, problem is, blurriness or blind spots in the center of the vision,NA
+Vision problem, problem is, blurry vision at all distances,NA
+Vision problem, problem is, bright zigzag lines,NA
+Vision problem, problem is," blurry, hazy, or dim vision",NA
+Vision problem, problem is, double vision,NA
+Vision problem, problem is, color fading,NA
+Vision problem, problem is, flashes of light,NA
+Vision problem, problem is, glare in bright light,NA
+Vision problem, problem is, halos,NA
+Vision problem, problem is, inability to distinguish certain shades of colors,NA
+Vision problem, problem is, loss of peripheral vision,NA
+Vision problem, problem is, objects appear distorted or misshapen,NA
+Vision problem, problem is, poor night vision,NA
+Vision problem, problem is, shadows or curtains gradually expanding in the field of vision,NA
+Vision problem, problem is," seeing things that aren't there, or hallucinations",NA
+Vision problem, problem is, sensitivity to light,NA
+Vision problem, problem is, flickering spots or stars,NA
+Vision problem, problem is, spots or lines in the field of vision,NA
+Vision problem, problem is, tunnel vision,NA
+Vision problem, problem affects, both eyes,NA
+Vision problem, problem affects, one eye,NA
+Hand numbness or tingling, accompanied by, arm or hand pain,NA
+Hand numbness or tingling, accompanied by, arm or hand weakness,NA
+Hand numbness or tingling, accompanied by, burning pain,NA
+Hand numbness or tingling, accompanied by, extreme sensitivity to touch,NA
+Hand numbness or tingling, accompanied by, frequent sensation of asleep in feet or hands,NA
+Hand numbness or tingling, accompanied by," gradually spreading numbness, tingling, or pain, possibly spreading upward to legs and arms",NA
+Hand numbness or tingling, accompanied by, poor coordination and falls,NA
+Hand numbness or tingling, accompanied by, muscle weakness in affected areas,NA
+Hand numbness or tingling, accompanied by, muscle weakness or paralysis,NA
+Hand numbness or tingling, accompanied by, numbness or decreased sensation in the area supplied by the nerve,NA
+Hand numbness or tingling, accompanied by," sharp, aching, or burning pain, possibly radiating outward",NA
+Hand numbness or tingling, accompanied by," sharp, tingling, stabbing, throbbing, freezing, or burning pain",NA
+Hand numbness or tingling, accompanied by, tingling or pins and needles sensation (paresthesia),NA
+Hand numbness or tingling, numbness or tingling, affects your fingers or hand,NA
+Hand numbness or tingling, numbness or tingling, is intermittent,NA
+Hand numbness or tingling, numbness or tingling, begins gradually,NA
+Hand numbness or tingling, numbness or tingling, wakes you up at night,NA
+Hand numbness or tingling, relieved by, resting,NA
+Hand numbness or tingling, worsened by, sleeping,NA
+Hand numbness or tingling, triggered by, staying in one position for a long time,NA
+Hand numbness or tingling, triggered by, repetitive use,NA
+Edema, accompanying symptoms, weight loss before edema,NA
+Edema, duration, several hours to a day,NA
+Edema, duration, one to two days,NA
+Edema, duration, several days to a week,NA
+Edema, duration, more than a week,NA
+Edema, location, inner ankle,NA
+Edema, location, lower limb edema,NA
+Edema, location, eyelid edema,NA
+Edema, location, facial edema,NA
+Edema, location, upper limb edema,NA
+Edema, location, generalized edema,NA
+Sleep problems (including sleep breathing disorders), manifested as, sleep breathing disorders,NA
+Sleep problems (including sleep breathing disorders), manifested as, sleep rhythm disorders,NA
+Sleep problems (including sleep breathing disorders), manifested as, insomnia,NA
+Sleep problems (including sleep breathing disorders), manifested as, hypersomnia,NA
+Paralysis, manifested as, monoplegia (paralysis of one upper or lower limb on one side),NA
+Paralysis, manifested as, paraplegia (paralysis of both lower limbs),NA
+Paralysis, manifested as, crossed paralysis,NA
+Paralysis, manifested as, hemiplegia,NA
+Paralysis, manifested as, quadriplegia,NA
+Hearing impairment, manifested as, deafness,NA
+Hearing impairment, manifested as, tinnitus  (low-pitched),NA
+Hearing impairment, manifested as, tinnitus  (high-pitched),NA
+Hearing impairment, manifested as, hyperacusis,NA
+Hearing impairment, duration, less than a minute,NA
+Hearing impairment, duration, one minute to several hours,NA
+Hearing impairment, duration, more than several hours,NA
+Headache, accompanied by," personality, behavior, or psychological state changes",NA
+Headache, accompanied by, confusion,NA
+Headache, accompanied by, difficulty speaking,NA
+Headache, accompanied by, dizziness,NA
+Headache, accompanied by, jaw pain,NA
+Headache, accompanied by, memory loss or amnesia,NA
+Headache, accompanied by, muscle or joint pain,NA
+Headache, accompanied by, persistent weakness or numbness,NA
+Headache, accompanied by, restlessness or agitation,NA
+Headache, accompanied by, seizures,NA
+Headache, accompanied by, sensitivity to light or noise,NA
+Headache, accompanied by, neck stiffness,NA
+Headache, accompanied by, scalp tenderness,NA
+Headache, accompanied by, vision problems,NA
+Headache, duration, less than a week,NA
+Headache, duration, one week to one month,NA
+Headache, duration, one month to one year,NA
+Headache, duration, more than a year,NA
+Headache, time of occurrence, morning or early day,NA
+Headache, time of occurrence, evening,NA
+Headache, time of occurrence, afternoon,NA
+Headache, time of occurrence, throughout the day,NA
+Headache, time of occurrence, during menstruation,NA
+Headache, onset, gradual,NA
+Headache, onset, before head injury or fall,NA
+Headache, onset, before frequent use of painkillers,NA
+Headache, onset, before visual or other sensory disturbances,NA
+Headache, onset, sudden and acute,NA
+Headache, pain sensation, severe,NA
+Headache, pain sensation, mild to moderate,NA
+Headache, pain sensation, moderate to severe,NA
+Headache, pain sensation, pressure or squeezing,NA
+Headache, pain sensation, sharp or burning,NA
+Headache, pain sensation, throbbing,NA
+Headache, pain sensation, diffuse pain,NA
+Headache, pain location, deep,NA
+Headache, pain location, forehead,NA
+Headache, pain location, around the eyes,NA
+Headache, pain location, frontal,NA
+Headache, pain location, one side of the head,NA
+Headache, pain location, eye area,NA
+Headache, pain location, entire head,NA
+Headache, pain location, both temples,NA
+Headache, pain location, occipital neck area,NA
+Headache, relieved by, lying down in the dark,NA
+Headache, relieved by, over-the-counter painkillers,NA
+Headache, relieved by, neck massage,NA
+Headache, relieved by, rest,NA
+Headache, recurrence, gradually becoming more frequent,NA
+Headache, recurrence, daily,NA
+Headache, recurrence, usually at the same time each day,NA
+Headache, triggered or worsened by, light or noise stimulation,NA
+Headache, triggered or worsened by, photophobia or phonophobia,NA
+Headache, triggered or worsened by, changes in sleep patterns,NA
+Headache, triggered or worsened by, chewing,NA
+Headache, triggered or worsened by, clenching or grinding teeth,NA
+Headache, triggered or worsened by, daily activities,NA
+Headache, triggered or worsened by, orgasm,NA
+Headache, triggered or worsened by, coughing,NA
+Headache, triggered or worsened by, shaking the head,NA
+Headache, triggered or worsened by, sneezing,NA
+Headache, triggered or worsened by, neck movement,NA
+Headache, triggered or worsened by, poor posture,NA
+Headache, triggered or worsened by, stress,NA
+Dizziness, accompanied by, unintentional weight loss,NA
+Dizziness, accompanied by, anxiety,NA
+Dizziness, accompanied by, blurred or double vision,NA
+Dizziness, accompanied by, tinnitus or ringing in the ears,NA
+Dizziness, accompanied by, tinnitus in only one ear,NA
+Dizziness, accompanied by, chest pain or tightness,NA
+Dizziness, accompanied by, confusion,NA
+Dizziness, accompanied by, ear pain or pressure,NA
+Dizziness, accompanied by, fever,NA
+Dizziness, accompanied by, hearing loss,NA
+Dizziness, accompanied by, nausea or vomiting,NA
+Dizziness, accompanied by, numbness or weakness on one side of the body,NA
+Dizziness, accompanied by," pain in the neck, jaw, arms, shoulders, or back",NA
+Dizziness, accompanied by, rapid or irregular heartbeat,NA
+Dizziness, accompanied by, severe headache,NA
+Dizziness, accompanied by, shortness of breath,NA
+Dizziness, accompanied by, slurred speech,NA
+Dizziness, triggered or worsened by, changing head or body position,NA
+Dizziness, sensation, spinning,NA
+Dizziness, sensation, lightheadedness or faintness,NA
+Dizziness, sensation, unsteadiness,NA
+Dizziness, symptoms, new or sudden onset,NA
+Dizziness, symptoms, recurring or persistent,NA
+Difficulty swallowing, accompanied by, rash,NA
+Difficulty swallowing, accompanied by, bad breath,NA
+Difficulty swallowing, accompanied by, dry mouth,NA
+Difficulty swallowing, accompanied by, ear pain,NA
+Difficulty swallowing, accompanied by, sensation of a lump in the throat,NA
+Difficulty swallowing, accompanied by, heartburn,NA
+Difficulty swallowing, accompanied by, hoarseness or difficulty speaking,NA
+Difficulty swallowing, accompanied by, jaw pain or stiffness,NA
+Difficulty swallowing, accompanied by, lump in the front of the neck,NA
+Difficulty swallowing, accompanied by," mouth ulcers, lumps, or pain",NA
+Difficulty swallowing, accompanied by, chest or back pain,NA
+Difficulty swallowing, accompanied by, acid reflux or heartburn,NA
+Difficulty swallowing, accompanied by, sore throat,NA
+Difficulty swallowing, accompanied by, thick saliva,NA
+Difficulty swallowing, accompanied by, choking or coughing,NA
+Difficulty swallowing, triggered or worsened by, eating certain foods,NA
+Difficulty swallowing, swallowing, pain,NA
+Difficulty swallowing, swallowing, requires effort,NA
+Knee pain, accompanied by, swelling,NA
+Knee pain, accompanied by, bruising or discoloration,NA
+Knee pain, accompanied by, reduced range of motion,NA
+Knee pain, accompanied by, feeling of instability,NA
+Knee pain, accompanied by, grinding sensation,NA
+Knee pain, accompanied by, inability to bear weight,NA
+Knee pain, accompanied by, joint weakness,NA
+Knee pain, accompanied by, locking or clicking sound,NA
+Knee pain, accompanied by, popping or cracking sound,NA
+Knee pain, accompanied by, skin redness,NA
+Knee pain, accompanied by, stiffness,NA
+Knee pain, accompanied by, warmth to the touch,NA
+Knee pain, triggered by, daily activities,NA
+Knee pain, triggered by, injury,NA
+Knee pain, triggered by, overuse,NA
+Knee pain, worsened by, exercise,NA
+Knee pain, worsened by, prolonged sitting or standing,NA
+Knee pain, worsened by, rest or inactivity,NA
+Knee pain, best described as, dull ache or mild pain,NA
+Knee pain, best described as, gradually worsening,NA
+Knee pain, best described as, persistent,NA
+Knee pain, best described as, severe or intense,NA
+Knee pain, best described as, sudden,NA
+Knee pain, located in, one or both sides of the knee,NA
+Knee pain, located in, around the knee,NA
+Knee pain, located in, back of the knee,NA
+Knee pain, located in, knee joint,NA
+Palpitations, accompanied by, chest pain or tightness,NA
+Palpitations, accompanied by, precordial pain,NA
+Palpitations, accompanied by, fainting,NA
+Palpitations, accompanied by, headache,NA
+Palpitations, accompanied by, nausea,NA
+Palpitations, accompanied by, anxiety,NA
+Palpitations, accompanied by, shortness of breath,NA
+Palpitations, accompanied by, sudden weight loss,NA
+Palpitations, accompanied by, sweating,NA
+Palpitations, accompanied by, tremor,NA
+Palpitations, accompanied by, difficulty sleeping,NA
+Palpitations, accompanied by, unexplained fatigue or weakness,NA
+Palpitations, often occur when, you are anxious or nervous,NA
+Palpitations, often occur when, you exert yourself,NA
+Palpitations, often occur when, you are resting or preparing to sleep,NA
+Palpitations, heart rate is, faster than normal,NA
+Palpitations, heart rate is, irregular or unstable,NA
+Palpitations, heart rate is, slower than normal,NA
+Palpitations, preceded by, caffeine or alcohol,NA
+Palpitations, preceded by, smoking or recreational drugs,NA
+Palpitations, preceded by, medication or herbal supplements,NA
+Chest discomfort, accompanied by, twitching or fainting,NA
+Chest discomfort, accompanied by, anxiety,NA
+Chest discomfort, accompanied by, belching,NA
+Chest discomfort, accompanied by," radiating pain to neck, jaw, arms, shoulders, or back",NA
+Chest discomfort, accompanied by, rapid or irregular heartbeat,NA
+Chest discomfort, location, precordial area,NA
+Chest discomfort, location, front of chest,NA
+Chest discomfort, location," radiating (to left shoulder, ring finger, pharynx, neck, left arm)",NA
+Chest discomfort, location, behind the sternum,NA
+Chest discomfort, duration, several hours,NA
+Chest discomfort, duration, several hours to a day,NA
+Chest discomfort, duration, more than a day,NA
+Chest discomfort, relieved by, antacids,NA
+Chest discomfort, relieved by, leaning forward,NA
+Chest discomfort, relieved by, rest,NA
+Chest discomfort, triggered or worsened by, allergens or irritants,NA
+Chest discomfort, triggered or worsened by, occurring after eating,NA
+Chest discomfort, triggered or worsened by, exercise,NA
+Chest discomfort, triggered or worsened by, exposure to cold air,NA
+Chest discomfort, triggered or worsened by, prolonged lying down,NA
+Chest discomfort, triggered or worsened by, pressing on the chest wall,NA
+Chest discomfort, triggered or worsened by, smoking,NA
+Chest discomfort, triggered or worsened by, stress,NA
+Chest discomfort, triggered or worsened by, deep breathing or coughing,NA
+Chest discomfort, triggered or worsened by, mental tension or emotional excitement,NA
+Chest pain, accompanied by, twitching or fainting,NA
+Chest pain, accompanied by, anxiety,NA
+Chest pain, accompanied by, belching,NA
+Chest pain, accompanied by," radiating pain to neck, jaw, arms, shoulders, or back",NA
+Chest pain, accompanied by, rapid or irregular heartbeat,NA
+Chest pain, location, precordial area,NA
+Chest pain, location, front of chest,NA
+Chest pain, location," radiating (to left shoulder, ring finger, pharynx, neck, left arm)",NA
+Chest pain, location, behind the sternum,NA
+Chest pain, duration, several hours,NA
+Chest pain, duration, several hours to a day,NA
+Chest pain, duration, more than a day,NA
+Chest pain, relieved by, antacids,NA
+Chest pain, relieved by, leaning forward,NA
+Chest pain, relieved by, rest,NA
+Chest pain, sensation of pain, dull pain,NA
+Chest pain, sensation of pain, burning pain,NA
+Chest pain, sensation of pain, stabbing pain,NA
+Chest pain, sensation of pain, tearing pain,NA
+Chest pain, sensation of pain, vague ache,NA
+Chest pain, sensation of pain, severe pain,NA
+Chest pain, sensation of pain, constrictive pain,NA
+Chest pain, sensation of pain, knife-like pain,NA
+Chest pain, sensation of pain, radiating pain,NA
+Chest pain, triggering or worsening factors, allergens or irritants,NA
+Chest pain, triggering or worsening factors, after eating,NA
+Chest pain, triggering or worsening factors, exercise,NA
+Chest pain, triggering or worsening factors, exposure to cold air,NA
+Chest pain, triggering or worsening factors, lying down for a long time,NA
+Chest pain, triggering or worsening factors, pressing on the chest wall,NA
+Chest pain, triggering or worsening factors, smoking,NA
+Chest pain, triggering or worsening factors, stress,NA
+Chest pain, triggering or worsening factors, deep breathing or coughing,NA
+Chest pain, triggering or worsening factors, mental stress or emotional excitement,NA
+Olfactory disorder, manifestation, decreased sense of smell,NA
+Olfactory disorder, manifestation, increased sense of smell,NA
+Olfactory disorder, manifestation, smell distortion,NA
+Olfactory disorder, manifestation, loss of smell,NA
+Vertigo, accompanied by, tinnitus or buzzing in the ears,NA
+Vertigo, accompanied by, hearing loss,NA
+Vertigo, accompanied by, nystagmus,NA
+Vertigo, accompanied by," visual impairment, eye muscle paralysis",NA
+Vertigo, accompanied by, insomnia with vivid dreams,NA
+Vertigo, accompanied by, ataxia,NA
+Vertigo, duration, several seconds,NA
+Vertigo, duration, several minutes to several hours,NA
+Vertigo, duration, several days,NA
+Vertigo, duration, several seconds to several minutes,NA
+Vertigo, duration, more than several hours,NA
+Eye discomfort and redness, accompanied by, sweating,NA
+Eye discomfort and redness, manifestation, retinal hemorrhage,NA
+Eye discomfort and redness, manifestation, conjunctival hemorrhage,NA
+Eye discomfort and redness, manifestation, bulbar conjunctival hyperemia,NA
+Eye discomfort and redness, aggravating factors," dry, warm air",NA
+Eye discomfort and redness, aggravating factors, eye movement,NA
+Eye discomfort and redness, visual problems include, blurred vision,NA
+Eye discomfort and redness, visual problems include, floaters in vision,NA
+Eye discomfort and redness, visual problems include, vision loss,NA
+Eye discomfort and redness, best description of discomfort, soreness,NA
+Eye discomfort and redness, best description of discomfort, dryness or itching,NA
+Eye discomfort and redness, best description of discomfort, gritty sensation,NA
+Eye discomfort and redness, best description of discomfort, redness without actual discomfort,NA
+Eye discomfort and redness, best description of discomfort, sensitivity to light,NA
+Eye discomfort and redness, best description of discomfort, severe pain,NA
+Eye discomfort and redness, best description of discomfort, stinging or burning sensation,NA
+Eye discomfort and redness, eye appearance includes, bleeding on the surface of the eye,NA
+Eye discomfort and redness, eye appearance includes, crusting on eyelashes after sleep,NA
+Eye discomfort and redness, eye appearance includes, excessive tearing,NA
+Eye discomfort and redness, eye appearance includes, painful red lump on eyelid,NA
+Eye discomfort and redness, eye appearance includes, swelling,NA
+Eye discomfort and redness, eye appearance includes, thick mucus in or around the eye,NA
+Eye discomfort and redness, eye appearance includes, swelling around the eyes,NA
+Eye discomfort and redness, triggering factors, allergens or other irritants,NA
+Eye discomfort and redness, triggering factors, injury or trauma,NA
+Pharyngeal abnormalities, manifestation, sensation of a foreign body,NA
+Pharyngeal abnormalities, manifestation, feeling of blockage,NA
+Pharyngeal abnormalities, manifestation, sensation of attachment,NA
+Pharyngeal abnormalities, manifestation, itching,NA
+Pharyngeal abnormalities, manifestation, dryness,NA
+Pharyngeal abnormalities, manifestation, burning sensation,NA
+Pharyngeal abnormalities, manifestation, dry throat,NA
+Pharyngeal abnormalities, nature, sensation of a foreign body,NA
+Pharyngeal abnormalities, nature, feeling of blockage,NA
+Pharyngeal abnormalities, nature, sensation of attachment,NA
+Pharyngeal abnormalities, nature, dryness,NA
+Pharyngeal abnormalities, nature, itching,NA
+Pharyngeal abnormalities, nature, reflux,NA
+Sore throat, accompanied by, cyanosis of skin or lips,NA
+Sore throat, accompanied by, chills or sweating,NA
+Sore throat, accompanied by, difficulty or pain in swallowing,NA
+Sore throat, accompanied by, difficulty breathing or hoarseness,NA
+Sore throat, accompanied by, swollen and tender neck lymph nodes,NA
+Sore throat, accompanied by, heartburn,NA
+Sore throat, accompanied by, hoarseness or muffled voice,NA
+Sore throat, accompanied by, muscle pain,NA
+Sore throat, accompanied by, swollen tonsils,NA
+Sore throat, accompanied by, rash,NA
+Sore throat, accompanied by, tearing,NA
+Sore throat, accompanied by, white patches or pus on tonsils,NA
+Sore throat, accompanied by, yellow or green nasal discharge,NA
+Sore throat, type of pain, stabbing pain,NA
+Sore throat, type of pain, dull pain,NA
+Sore throat, type of pain, burning pain,NA
+Sore throat, type of pain, distending pain,NA
+Sore throat, triggering factors, swallowing,NA
+Sore throat, triggering factors, eating,NA
+Sore throat, triggering factors, no action triggers,NA
+Lower back pain, accompanied by, reduced or stiff neck movement range,NA
+Lower back pain, accompanied by, knots or tight spots in the back muscles,NA
+Lower back pain, accompanied by, loss of balance or coordination,NA
+Lower back pain, accompanied by, loss of bowel or bladder control,NA
+Lower back pain, accompanied by, muscle weakness,NA
+Lower back pain, accompanied by," numbness or tingling in the limbs, typically on both sides (bilateral)",NA
+Lower back pain, accompanied by," numbness or tingling in the limbs, typically on one side (unilateral)",NA
+Lower back pain, accompanied by," shoulder, arm, or chest pain",NA
+Lower back pain, accompanied by, stiffness in the back,NA
+Lower back pain, accompanied by, swelling,NA
+Lower back pain, accompanied by, menstrual abnormalities or dysmenorrhea,NA
+Lower back pain, accompanied by, limited mobility,NA
+Lower back pain, accompanied by, spinal deformity,NA
+Lower back pain, accompanied by," weakness, numbness, or tingling in the leg or foot",NA
+Lower back pain, location, lower back,NA
+Lower back pain, location, upper back,NA
+Lower back pain, location, unilateral,NA
+Lower back pain, location, bilateral,NA
+Lower back pain, duration, less than one week,NA
+Lower back pain, duration, one week to one month,NA
+Lower back pain, duration, one month to one year,NA
+Lower back pain, duration, more than one year,NA
+Lower back pain, alleviated by, relieved after rest,NA
+Lower back pain, alleviated by, moderate activity,NA
+Lower back pain, pain sensation, colic-like pain,NA
+Lower back pain, pain sensation, dragging pain,NA
+Lower back pain, pain sensation, radiating pain,NA
+Lower back pain, pain sensation, burning pain,NA
+Lower back pain, pain sensation, squeezing pain,NA
+Lower back pain, pain sensation, dull pain,NA
+Lower back pain, pain sensation, aching pain,NA
+Lower back pain, triggering factors, daily activities,NA
+Lower back pain, triggering factors, injury,NA
+Lower back pain, triggering factors, fatigue,NA
+Lower back pain, triggering factors, exercise,NA
+Lower back pain, triggering factors, morning,NA
+Lower back pain, triggering factors, prolonged rest or inactivity,NA
+Lower back pain, triggering factors, prolonged sitting or standing,NA
+Confusion, type, loss of consciousness,NA
+Confusion, type, lack of willpower,NA
+Consciousness disorder, manifestation, drowsiness,NA
+Consciousness disorder, manifestation, somnolence,NA
+Consciousness disorder, manifestation, confusion,NA
+Consciousness disorder, manifestation, loss of consciousness,NA
+Consciousness disorder, manifestation, delirium,NA
+Consciousness disorder, type, light coma,NA
+Consciousness disorder, type, moderate coma,NA
+Consciousness disorder, type, deep coma,NA
+Limb (or whole-body) discomfort or soreness, manifestation, limb numbness and weakness,NA
+Limb (or whole-body) discomfort or soreness, manifestation, cold and clammy limbs,NA
+Limb (or whole-body) discomfort or soreness, manifestation, limb pain,NA
+Limb (or whole-body) discomfort or soreness, manifestation, limb soreness,NA
+Limb (or whole-body) discomfort or soreness, manifestation, localized pain after limb movement,NA
+Limb (or whole-body) discomfort or soreness, manifestation, whole-body discomfort,NA
+Limb (or whole-body) discomfort or soreness, manifestation, whole-body soreness,NA
