@@ -9,8 +9,6 @@ def main():
     path_dict = {
         'mimic_iii': mimic_iii_path,
         'mimic_iv': mimic_iv_path,
-        'srrsh_big': full_diagnosis_info_srrsh_dataset,
-
     }
 
     head = ['data_source', 'visit_type', 'patient_visit_id', 'outpatient_record', 'admission_record',
