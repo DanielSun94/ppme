@@ -9,12 +9,6 @@ def main():
     path_dict = {
         'mimic_iii': mimic_iii_path,
         'mimic_iv': mimic_iv_path,
-        'langtong_ssrsh': langtong_ssrsh_path,
-        'langtong_xiamen': langtong_xiamen_path,
-        'langtong_guizhou': langtong_guizhou_path,
-        'langtong_wenfuyi': langtong_wenfuyi_path,
-        'langtong_xiangya': langtong_xiangya_path,
-        'langtong_shengzhou': langtong_shengzhou_path,
         'srrsh_big': full_diagnosis_info_srrsh_dataset,
 
     }
